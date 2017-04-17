@@ -4,4 +4,5 @@ package com.util;
 public class DataManagerImpl implements DataManager {
 
 System.out.println("hello");
+  System.out.println("hello");
 }
